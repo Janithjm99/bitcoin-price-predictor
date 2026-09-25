@@ -1,4 +1,6 @@
-# 🚀 Bitcoin Price Predictor
+# 🚀 [Bitcoin Price Predictor(https://bitcoin-price-predictor-4.streamlit.app/)]
+
+https://bitcoin-price-predictor-4.streamlit.app/
 
 A machine learning project that predicts Bitcoin prices using multiple algorithms (Random Forest, XGBoost, ARIMA, LSTM) with an interactive Streamlit dashboard for real-time predictions.
 
