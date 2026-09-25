@@ -1,4 +1,4 @@
-# 🚀 [Bitcoin Price Predictor(https://bitcoin-price-predictor-4.streamlit.app/)]
+# 🚀 [Bitcoin Price Predictor](https://bitcoin-price-predictor-4.streamlit.app/)
 
 https://bitcoin-price-predictor-4.streamlit.app/
 
